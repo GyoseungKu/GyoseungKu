@@ -35,12 +35,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Gyoseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyoseungku&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyoseungku&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect with Me
 [![Email](https://img.shields.io/badge/Email-gyoseung%40syuin.ac.kr-red?style=flat-square)](mailto:gyoseung@syuin.ac.kr)
 [![Instagram](https://img.shields.io/badge/Instagram-gyoseung__ku-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gyoseung_ku)
