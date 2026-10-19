@@ -45,7 +45,7 @@
 | **2024.11** | 🍁 *Klay* | (구름톤 단풍톤) 외국인의 한국생활 적응 도우미 서비스 | - |
 | **2025.02** | 🦁 [*멋쟁이사자처럼 삼육대학교 13기 모집 홈페이지*](https://github.com/GyoseungKu/likelion13_BE) | 지원자 접수 및 관리 웹사이트 | - |
 | **2025.09** | 🎉 [*삼육대학교 개교 119주년 천보축전 홈페이지*](https://github.com/GyoseungKu/Festa_2025) | 디지털 부스 스탬프, 실시간 맵, 관리자 기능 포함 | - |
-| **2025.10** | 💼 *JobDam* | (삼육대학교 SW프로젝트 경진대회) 사회 초년생의 직장생활 도우미 | **우수상** |
+| **2025.10** | 💼 [*JobDam*](https://github.com/GyoseungKu/JWT-JPA-Service) | (삼육대학교 SW프로젝트 경진대회) 사회 초년생의 직장생활 도우미 | **우수상** |
 | **2026.02** | 💼 [*Mavis*](https://github.com/GyoseungKu/OneWave_T17_Back) | (GDGoC 연합 OneWave 해커톤) AI 기반 창업 아이디어 분석 및 팀빌딩·지원사업 추천 서비스 | - |
 | **2026.02** | 🔐 [*멋쟁이사자처럼 삼육대학교 통합 SSO*](https://github.com/GyoseungKu/Spring-JWT-Project-springJPA) | 교내 멋쟁이사자처럼 서비스의 인증 체계를 통합한 SSO 구축. 14기 홈페이지를 시작으로 각종멤버 서비스 연동 | - |
 | **2026.02** | 🦁 [*멋쟁이사자처럼 삼육대학교 14기 홈페이지*](https://github.com/GyoseungKu/Likelion_SYU_Homepage) | 지원 접수·평가 및 아기사자 출결 관리, 공지, 과제 제출·평가, 일정 관리 기능을 제공 | - |
